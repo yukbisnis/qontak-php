@@ -1,0 +1,23 @@
+{
+  "name": "yubi/qontak-php",
+  "description": "A package to consume Qontak API",
+  "type": "library",
+  "require": {
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/yukbisnis/qontak-php",
+  "authors": [
+    {
+      "name": "Hasan Prayoga (Investor)",
+      "email": "hasandotprayoga@gmail.com",
+      "homepage": "https://yubi.id/z",
+      "role": "Owner"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "yubi\\Qontak\\": "src/"
+    }
+  }
+}
