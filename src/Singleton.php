@@ -1,6 +1,6 @@
 <?php
 
-namespace Hasandotprayoga\Qontak;
+namespace Yubi\Qontak;
 
 class Singleton
 {
